@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflet Map https://kacperzgolebia.github.io/Kacper/
-- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vTuSY3d14ScYmfGn9neddM-6yPLfmPgIe5gYRr7x4c10ROntMQDbi3G04ZcAqfQ08dZK7yhDhjiDICN/pubhtml
+- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vQKSG1WRYp5nCefm5ftDNCBX1axUJW-KFuK378I6DlnkfuVvBWfhs4nEVfwN8QKDmyAFoT9M2j6jIPK/pubhtml
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
